@@ -1,3 +1,5 @@
+https://github.com/Alemslab/Alemslab
+# This is me:
 - 👋 Hi, I'm @Alemslab (male);
 - 🎯 Currently working on a website;
 - 🌱 Trying to learn Javascript;
@@ -5,7 +7,18 @@
 - ❔ Ask me for python and c/csharp/cpp basics;
 - 💖 Love python, speedrunning and slav culture;
 - 🛠 Work with pycharm, eclipse and js.bin;
-- ➕ I speak 4 foreign languages
+- ➕ I speak 4 foreign languages;
+# 🛠 Tools I use:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="aftereffect" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
+</p>
 <!---
 Alemslab/Alemslab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
